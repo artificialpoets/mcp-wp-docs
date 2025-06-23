@@ -187,6 +187,7 @@ const config: Config = {
     // Google Tag Manager (noscript)
     {
       tagName: 'noscript',
+      attributes: {},
       innerHTML: '<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDK6M366" height="0" width="0" style="display:none;visibility:hidden"></iframe>',
     },
   ],
