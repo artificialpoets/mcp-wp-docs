@@ -93,7 +93,7 @@ export default function CustomFooter(): JSX.Element {
                     <Link to="/" className="footer-nav-link">Home</Link>
                   </li>
                   <li className="footer-nav-item">
-                    <Link to="/docs/getting-started/getting-started" className="footer-nav-link">Getting Started</Link>
+                    <Link to="/docs/getting-started" className="footer-nav-link">Getting Started</Link>
                   </li>
                   <li className="footer-nav-item">
                     <Link to="/docs/ai-providers/" className="footer-nav-link">AI Providers</Link>

@@ -299,7 +299,7 @@ export default function GetInTouch() {
               </p>
               <div style={{display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap'}}>
                 <a
-                  href="/docs/getting-started/getting-started"
+                  href="/docs/getting-started"
                   style={{
                     background: 'var(--ifm-color-primary)',
                     color: '#000',
