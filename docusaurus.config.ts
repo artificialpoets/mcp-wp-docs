@@ -280,6 +280,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
     // Algolia Search Configuration
+    /*
     algolia: {
       appId: 'YOUR_APP_ID', // Replace with your Algolia App ID
       apiKey: 'YOUR_SEARCH_API_KEY', // Replace with your Algolia Search API Key
@@ -288,6 +289,7 @@ const config: Config = {
       searchParameters: {},
       searchPagePath: 'search',
     },
+    */
   } satisfies Preset.ThemeConfig,
 };
 
