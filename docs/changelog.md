@@ -148,8 +148,8 @@ See our [Contributing Guide](../contributing) for details.
 ## <strong>📞 Support</strong>
 
 - 📖 [Documentation](../getting-started)
-- 🐛 [Issue Tracker](https://github.com/artificialpoets/wp-mcp-docs/issues)
-- 💬 [Community Forum](https://github.com/artificialpoets/wp-mcp-docs/discussions)
+- 🐛 [Issue Tracker](https://github.com/artificialpoets/mcp-wp-docs/issues)
+- 💬 [Community Forum](https://github.com/artificialpoets/mcp-wp-docs/discussions)
 - 📧 [Email Support](mailto:support@example.com)
 
 ---

@@ -40,7 +40,7 @@ This guide shows you how to integrate MCP for WP with WooCommerce to automate pr
 wp plugin install woocommerce --activate
 
 # Install MCP for WP
-wp plugin install https://github.com/artificialpoets/wp-mcp-docs/archive/main.zip --activate
+wp plugin install https://github.com/artificialpoets/mcp-wp-docs/archive/main.zip --activate
 ```
 
 ### Configure AI Provider

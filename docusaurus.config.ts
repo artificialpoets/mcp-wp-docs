@@ -199,7 +199,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/artificialpoets/wp-mcp-docs/tree/main/docs/',
+          editUrl: 'https://github.com/artificialpoets/mcp-wp-docs/tree/main/docs/',
         },
         // Removed blog configuration
         theme: {
@@ -212,7 +212,7 @@ const config: Config = {
         },
         // Google Tag Manager configuration
         gtag: {
-          trackingID: 'G-CTNWL8RFSL',
+          trackingID: 'G-XXXXXXXXXX', // Replace with your Google Analytics tracking ID
           anonymizeIP: true,
         },
       } satisfies Preset.Options,
@@ -221,7 +221,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/wp-mcp-social-card.jpg',
+    image: 'img/og-image.png',
     
     // Color mode configuration
     colorMode: {
@@ -254,7 +254,7 @@ const config: Config = {
           label: 'Contact',
         },
         {
-          href: 'https://github.com/artificialpoets/wp-mcp-docs',
+          href: 'https://github.com/artificialpoets/mcp-wp-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -271,14 +271,22 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'light',
-      // Disable default footer since we're using a custom one
-      links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} MCP for WP. Built with Docusaurus.`,
+      style: 'dark',
+      links: [], // Links are managed in the custom footer
+      copyright: `Copyright © ${new Date().getFullYear()} Artificial Poets, Inc.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    // Algolia Search Configuration
+    algolia: {
+      appId: 'YOUR_APP_ID', // Replace with your Algolia App ID
+      apiKey: 'YOUR_SEARCH_API_KEY', // Replace with your Algolia Search API Key
+      indexName: 'YOUR_INDEX_NAME', // Replace with your Algolia Index Name
+      contextualSearch: true,
+      searchParameters: {},
+      searchPagePath: 'search',
     },
   } satisfies Preset.ThemeConfig,
 };

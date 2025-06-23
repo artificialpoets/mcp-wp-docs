@@ -50,7 +50,7 @@ This guide will walk you through installing, configuring, and creating your firs
 
 ```bash
 # Download from GitHub
-wget https://github.com/artificialpoets/wp-mcp-docs/archive/main.zip
+wget https://github.com/artificialpoets/mcp-wp-docs/archive/main.zip
 
 # Extract to wp-content/plugins/
 unzip main.zip -d wp-content/plugins/
@@ -370,7 +370,7 @@ function render_ai_summary_block($attributes) {
 
 - [Troubleshooting Guide](/docs/guides/troubleshooting)
 - [API Reference](/docs/reference/api-reference)
-- [Community Forum](https://github.com/artificialpoets/wp-mcp-docs/discussions)
+- [Community Forum](https://github.com/artificialpoets/mcp-wp-docs/discussions)
 
 ---
 

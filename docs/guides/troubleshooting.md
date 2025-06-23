@@ -258,7 +258,7 @@ define('WP_DEBUG_DISPLAY', false);
 ### Support Channels
 
 **Priority Order**:
-1. **GitHub Issues**: [Create an issue](https://github.com/artificialpoets/wp-mcp-docs/issues) with detailed information
+1. **GitHub Issues**: [Create an issue](https://github.com/artificialpoets/mcp-wp-docs/issues) with detailed information
 2. **Documentation**: Check this guide and other docs first
 3. **Community**: Ask in WordPress forums or community groups
 

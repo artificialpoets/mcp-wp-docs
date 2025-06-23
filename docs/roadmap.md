@@ -26,4 +26,4 @@ This page outlines the planned and long-term features for MCP for WP, providing 
 
 ---
 
-We welcome feedback and contributions! If you have ideas or want to help shape the future of MCP for WP, please join our [Community Forum](https://github.com/artificialpoets/wp-mcp-docs/discussions) or see our [Contributing Guide](../contributing). 
+We welcome feedback and contributions! If you have ideas or want to help shape the future of MCP for WP, please join our [Community Forum](https://github.com/artificialpoets/mcp-wp-docs/discussions) or see our [Contributing Guide](../contributing). 

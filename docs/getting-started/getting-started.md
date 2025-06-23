@@ -14,7 +14,7 @@ First things first, let's get the plugin installed and activated on your WordPre
     You can either download the plugin as a ZIP file from the repository or clone it using Git.
 
     ```bash
-    git clone https://github.com/artificialpoets/wp-mcp-docs.git
+    git clone https://github.com/artificialpoets/mcp-wp-docs.git
     ```
 
 2.  **Upload to WordPress**:

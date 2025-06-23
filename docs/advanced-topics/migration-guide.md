@@ -40,4 +40,4 @@ We understand that you may be looking to switch to MCP for WP from another AI or
 
 ### 🤝 Community Contributions
 
-Have you successfully migrated from another plugin and developed a script or a process to do so? We would love to hear from you! Please consider sharing your experience and any scripts you've created by opening an issue or a pull request on our [GitHub repository](https://github.com/artificialpoets/wp-mcp-docs). Your contributions can help make the process easier for the entire community. 
+Have you successfully migrated from another plugin and developed a script or a process to do so? We would love to hear from you! Please consider sharing your experience and any scripts you've created by opening an issue or a pull request on our [GitHub repository](https://github.com/artificialpoets/mcp-wp-docs). Your contributions can help make the process easier for the entire community. 

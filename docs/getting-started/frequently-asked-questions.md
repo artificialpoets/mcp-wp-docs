@@ -31,7 +31,7 @@ Here are some of the most common questions we receive. If you don't find your an
 **A:** The first place to look is the **Execution Logs** under the MCP for WP menu. This will give you detailed information about the request and response. Also, double-check that your API key is valid and has sufficient quota.
 
 **Q: Where can I find more help if I'm stuck?**
-**A:** For more detailed solutions, please see our [Troubleshooting Guide](../reference/troubleshooting). If you're still having trouble, don't hesitate to open an issue on our [GitHub repository](https://github.com/artificialpoets/wp-mcp-docs).
+**A:** For more detailed solutions, please see our [Troubleshooting Guide](../reference/troubleshooting). If you're still having trouble, don't hesitate to open an issue on our [GitHub repository](https://github.com/artificialpoets/mcp-wp-docs).
 
 ## <strong>🧩 Extending MCP for WP</strong>
 
